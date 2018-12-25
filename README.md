@@ -3,7 +3,7 @@
 This is designed to show the basic layout for how a HTML document could/should be layed out and the way that elements within it are coded to allow for them to appear on a basic webpage. This should be able to be understood by both someone who codes, and someone who has never coded before. 
 
 This covers primarily the elements within the <body> tag, including:
-1. (<h1> - <h6>) how these headers are used and what they allow the text they surround to do, either making them bigger or smaller.
+1. <"h1"> - <"h6"> how these headers are used and what they allow the text they surround to do, either making them bigger or smaller.
 2. <div> division and how this tag seperates elements from the screen based on the code.
 3. <p> the paragraph tag to enclose itself with the text inside to allow it show up in a paragraph format.
 4. <em> and <strong> tags which surround text to allow for italics, and bold font respectively.
